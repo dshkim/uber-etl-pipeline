@@ -21,6 +21,6 @@
 
 ## Dashboard
 
-![Uber Analytics Dashboard](uber-analytics-dashboard.jpg)
+![Uber Analytics Dashboard](uber-analytics-dashboard.pdf)
 
 
