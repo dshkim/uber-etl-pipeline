@@ -96,6 +96,28 @@ You can find more detailed steps here: [load.py](mage-files/load.py)
 
 ![uber-analytics-dashboard](https://github.com/user-attachments/assets/ea4d6fc1-35d9-4ab6-a37d-2b48fed93a15)
 
+The final component of the project is the dashboard created using Looker Studio, which is connected to the data stored in Google BigQuery. This interactive dashboard provides a comprehensive view of the Uber ride data with various analytical features and visualizations.
 
+### Key Features
 
+- **Key Metrics**: The dashboard displays several key metrics, including:
+  - **Average Trip Distance**: Shows the average distance of Uber trips.
+  - **Total Number of Trips**: Provides the total count of Uber trips recorded.
+  - **Total Revenue**: Displays the cumulative revenue generated from the rides.
+  - **Average Fare Amount**: Represents the average fare amount for trips.
+  - **Average Tip Amount**: Shows the average tip given for the rides.
+
+- **Filters**: Users can interact with the dashboard by applying filters to view data based on specific criteria:
+  - **Vendor Type**: Filter data according to the Uber vendor type.
+  - **Payment Type**: Filter trips based on the method of payment.
+  - **Rate Code**: Apply filters to see data for different rate codes.
+  - **Trip Distance**: Filter trips by distance to analyze shorter or longer trips.
+
+- **Bubble Map**: An interactive bubble map is included to visualize the geographic distribution of Uber trips. This map allows users to see where trips are being booked across the city, providing spatial insights into ride patterns.
+
+### Conclusion
+
+The dashboard effectively integrates with BigQuery to offer an in-depth analysis of Uber ride data. With its key metrics, interactive filters, and geographical visualizations, it provides valuable insights into ride patterns and financial aspects of the trips. This project demonstrates the power of combining data engineering and visualization tools to analyze and present data in a meaningful way. By leveraging GCP, Mage AI, BigQuery, and Looker Studio, this ETL pipeline and dashboard setup offers a robust solution for exploring and understanding transportation data.
+
+You can find more detailed SQL analysis here: [analysis_queries.py](analysis_queries.sql)
 
