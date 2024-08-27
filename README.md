@@ -28,7 +28,7 @@ This project involves several key steps:
 - **Data Modeling**: Implement effective fact and dimensional modeling techniques to structure the data. This involves designing and creating fact tables and dimension tables that support comprehensive data analysis and reporting.
 - **Visualization**: Create an intuitive and interactive dashboard to visualize ride patterns, trends, and other relevant metrics.
 
-This project serves as a demonstration of my ability to design and implement a robust ETL pipeline using cloud technologies, while also showcasing my skills in data modeling and visualization of complex d ata.
+This project serves as a demonstration of my ability to design and implement a robust ETL pipeline using cloud technologies, while also showcasing my skills in data modeling and visualization of complex data.
 
 ## Data Architecture
 
