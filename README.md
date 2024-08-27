@@ -115,7 +115,7 @@ The final component of the project is the dashboard created using Looker Studio,
 
 - **Bubble Map**: An interactive bubble map is included to visualize the geographic distribution of Uber trips. This map allows users to see where trips are being booked across the city, providing spatial insights into ride patterns.
 
-### Conclusion
+## Conclusion
 
 The dashboard effectively integrates with BigQuery to offer an in-depth analysis of Uber ride data. With its key metrics, interactive filters, and geographical visualizations, it provides valuable insights into ride patterns and financial aspects of the trips. This project demonstrates the power of combining data engineering and visualization tools to analyze and present data in a meaningful way. By leveraging GCP, Mage AI, BigQuery, and Looker Studio, this ETL pipeline and dashboard setup offers a robust solution for exploring and understanding transportation data.
 
